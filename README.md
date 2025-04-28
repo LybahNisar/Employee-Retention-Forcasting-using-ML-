@@ -26,10 +26,7 @@ This project presents a machine learning-based solution to forecast employee att
 
 ---
 
-## 📁 Project Structure
 
-
----
 
 ## 📊 Visual Insights
 
